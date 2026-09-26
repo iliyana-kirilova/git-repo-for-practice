@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Git Practice</title>
+</head>
+<body>
+    <p>Hello Git!</p>
+</body>
+</html>

@@ -3,7 +3,8 @@
 <head>
     <title>My Git Practice</title>
 </head>
-<body>
-    <p>Hello from Hello from MAIN</p>
+<body>\
+	<h1>My Git Project</h1>
+    	<p>Hello from Hello from MAIN</p>
 </body>
 </html>
